@@ -5,7 +5,7 @@ The repository contains code refered to the work:
 
 _Giuseppina Andresini, Annalisa Appice, Corrado Loglisci, Vincenzo Belvedere, Domenico Redavid and Donato Malerba_
 
-[A Network Intrusion Detection System forConcept Drifting Network Traffic Data](https://github.com/gsndr/Str-MINDFUL) 
+[A Network Intrusion Detection System for Concept Drifting Network Traffic Data](https://github.com/gsndr/Str-MINDFUL) 
 
 Please cite our work if you find it useful for your research and work.
 ```
