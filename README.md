@@ -88,4 +88,4 @@ PLEASE NOTE: The current version of STREAM MINDFUL has been implemented based on
 ## Download datasets
 The dataset used for experiments can downloaded from here:
 
-[CICIDS2017](https://drive.google.com/file/d/1ENI6gvSH48-QOvppVTdtzJZhRSHPtCIJ/view?usp=sharing)
+[CICIDS2017](https://drive.google.com/file/d/1ZEUIQ9X90Ukgn0FK8QpvpsTSnI17D6uA/view?usp=sharing)
